@@ -1,0 +1,61 @@
+Exercícios
+1 - Pergunta: Qual é a finalidade da declaração em um documento HTML? Qual é sua importância?
+
+A declaração em um documento HTML serve principalmente para definir a versão do HTML que está sendo usada e garantir a correta interpretação e renderização do documento pelos navegadores
+
+2 - Pergunta: O que são elementos HTML? Explique brevemente o conceito.
+
+Elementos HTML são os blocos de construção fundamentais de uma página da web. Eles são as estruturas que compõem o conteúdo e a estrutura de uma página HTML.
+
+3 - Pergunta: Em HTML, como os elementos são estruturados geralmente? Descreva a estrutura básica de um documento HTML, incluindo as tags de abertura e fechamento.
+
+os elementos são estruturados em uma hierarquia que define a organização e apresentação do conteúdo em uma página da web
+
+Título da Página
+Este é a cabeça
+Isto é um parágrafo .
+
+Item Blusa
+Item Calça
+Link para exemplo.com
+4 - Pergunta: O que são atributos em HTML e onde eles são normalmente encontrados em um elemento HTML? Dê um exemplo de um elemento HTML com atributos.
+
+os atributos são informações adicionais fornecidas dentro de um elemento HTML que modificam ou definem suas propriedades ou comportamento
+
+href="https://www.qualquercoisa.com" title="Visite o site de exemplo">Clique aqui
+
+5 - Pergunta: O que são elementos vazios em HTML? Forneça alguns exemplos de elementos vazios e explique por que eles são considerados vazios.
+
+Elementos vazios em HTML, também conhecidos como elementos de autotag, são elementos que não possuem conteúdo entre uma tag de abertura e uma tag de fechamento em vez de usar uma tag de fechamento separada, esses elementos são fechados com uma barra ("/")
+
+link rel="stylesheet" type="text/css" href="estilo.css"
+
+6 - Pergunta: Explique a diferença entre elementos de bloco e elementos inline em HTML. Dê exemplos de cada um.
+
+blocos: elementos de bloco são usados para estruturar o conteúdo da página em blocos distintos, eles normalmente começam em uma nova linha e ocupam toda a largura disponível do elemento pai que os contém.
+
+inlines: elementos inline são usados para marcar partes de texto ou conteúdo que ocorrem dentro de elementos de bloco, eles não começam em uma nova linha e ocupam apenas o espaço necessário para o conteúdo que envolvem.
+
+7 - Pergunta: Qual é a diferença entre as tags <div> e <span> em HTML? Quando você usaria uma em vez da outra?
+
+div: é um elemento de bloco e é usado para criar um contêiner genérico que agrupa blocos de conteúdo
+
+span:é um elemento inline e é usado para aplicar estilos a parte de um texto ou conteúdo dentro de um elemento de bloco
+
+8 - Pergunta: Qual atributo HTML permite abrir um link em uma nova janela ou guia do navegador? Dê um exemplo de como usar esse atributo.
+
+Target
+
+href="https://www.exemplo.com" target="_blank">Abrir em nova janela
+
+9 - Pergunta: Além do exemplo mencionado na aula, pesquise e liste pelo menos três meta informações que podem ser adicionadas a uma página HTML. Explique brevemente o propósito de cada uma delas.
+
+Meta Charset (Meta de Conjunto de Caracteres): O atributo charset é usado para especificar o conjunto de caracteres usado no documento
+
+Meta Description (Meta de Descrição):A meta descrição fornece uma breve descrição do conteúdo da página. Essa descrição é frequentemente usada pelos mecanismos de busca e é exibida nos resultados de pesquisa
+
+Meta Keywords (Palavras-chave Meta):A meta keywords costumava ser usada para listar palavras-chave relevantes para o conteúdo da página.
+
+10 - Pergunta: Além das tags <b> e <i>, que outras tags de formatação HTML você conhece? Liste pelo menos duas tags adicionais e explique como elas são usadas.
+
+Strong, e Em
